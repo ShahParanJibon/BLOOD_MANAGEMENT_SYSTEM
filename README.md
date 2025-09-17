@@ -7,3 +7,4 @@ The Blood Bank Management System (BBMS) is a comprehensive platform designed to 
 ![image_alt](https://github.com/ShahParanJibon/BLOOD_MANAGEMENT_SYSTEM/blob/bb0cb15100bbfaf9b0c418020f1ab3ad95fe8b1b/Screenshot%202025-09-17%20223337.png)
 
 # Project Interface
+![image_alt](https://github.com/ShahParanJibon/BLOOD_MANAGEMENT_SYSTEM/blob/f6026ca08a0c0e14feb93597aef641f9c7564347/Screenshot%202025-09-17%20213158.png)
